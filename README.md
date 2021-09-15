@@ -26,8 +26,11 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&style=for-the-badge&logo=arduino)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&style=for-the-badge&logo=firebase)
 
+<a href=""><!--<img height="137px" src="https://github-readme-stats.vercel.app/api?username=sup3rtemaki&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sup3rtemaki&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=1,52fa5a,4dfcff,c6ff4d&theme=graywhite" /></a>
+
 <!---
 sup3rtemaki/sup3rtemaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
+bg_color=0,52fa5a,4dfcff,c64dff
 --->
