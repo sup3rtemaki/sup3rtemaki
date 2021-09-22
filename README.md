@@ -26,7 +26,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&style=for-the-badge&logo=arduino)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&style=for-the-badge&logo=firebase)
 
-<a href=""><img height="137px" src="https://github-readme-stats.vercel.app/api?username=sup3rtemaki&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=blue-green" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sup3rtemaki&hide=html&hide_title=true&hide_border=true&langs_count=7&layout=compact&theme=blue-green" /></a>
+<a href=""><img height="137px" src="https://github-readme-stats.vercel.app/api?username=sup3rtemaki&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=blue-green" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sup3rtemaki&hide=html&hide_title=true&hide_border=true&langs_count=6&layout=compact&theme=blue-green" /></a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sup3rtemaki&repo=hack_n_slash_proj&theme=blue-green)](https://github.com/sup3rtemaki/hack_n_slash_proj)
 
