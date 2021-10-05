@@ -17,6 +17,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&style=for-the-badge&logo=flutter)
 ![Android](https://img.shields.io/badge/-Android-000?&style=for-the-badge&logo=android)
 ![Flask](https://img.shields.io/badge/-Flask-000?&style=for-the-badge&logo=flask)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&style=for-the-badge&logo=fastapi)
 ![Spring](https://img.shields.io/badge/-Spring-000?&style=for-the-badge&logo=Spring)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&style=for-the-badge&logo=laravel)
 ![Git](https://img.shields.io/badge/-Git-000?&style=for-the-badge&logo=git)
